@@ -1,0 +1,3 @@
+jan_moc_demo_homepage:
+    pattern:  /
+    defaults: { _controller: JanMOCDemoBundle:Default:index }
